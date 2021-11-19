@@ -9,3 +9,5 @@ CONCEPTS USED IN CLEANING THE DATA
   -Changing and correcting errors like changing of the Vacant column to Yes and No
   -Remove Duplicates
   -Deleting Unused columns
+  
+  A link to my SQL queries.............https://github.com/KaySam28/NashVille/blob/main/NashVille.sql
